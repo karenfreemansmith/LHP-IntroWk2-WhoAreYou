@@ -1,6 +1,7 @@
 $(document).ready(function() {
   $("#survey form").submit(function(event) {
-
+    event.preventDefault();
+    
     var q1Input=$("input:radio[name=q1]:checked").val();
     var q2Input=$("input:radio[name=q2]:checked").val();
     var q3Input=$("input:radio[name=q3]:checked").val();
@@ -12,23 +13,23 @@ $(document).ready(function() {
     var q9Input=$("input:radio[name=q9]:checked").val();
 
     if(q1Input==="b" && q2Input==="b") {
-      alert("Cindy Chandler");
+      $("#cindy").show();
     } else if(q1Input==="a" && q2Input==="b") {
-      alert("Kate Austen");
+      $("#kate").show();
     } else if(q1Input==="b" && q2Input==="a") {
-      alert("Juliet Burke");
+      $("#juliet").show();
     } else if(q1Input==="a" && q3Input==="a") {
-      alert("Mr. Eko");
+      $("#eko").show();
     } else if(q1Input==="b" && q3Input==="a") {
-      alert("Walter 'Walt' Lloyd");
+      $("#walt").show();
     } else if(q2Input==="b" && q3Input==="a") {
-      alert("John Locke");
+      $("#locke").show();
     } else if(q6Input==="a" && q3Input==="a") {
-      alert("Richard Alpert");
+      $("#alpert").show();
     } else if(q2Input==="a" && q3Input==="a") {
-      alert("You are Christian Shephard");
+      $("#christian").show();
     } else {
-      alert("You are Vincent");
+      $("#vincent").show();
     }
 
     /*
