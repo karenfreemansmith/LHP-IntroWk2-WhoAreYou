@@ -1,22 +1,19 @@
-# :airplane: [Which LOST Character Are You?](http://karenfreemansmith.github.io/whoareyou) :syringe:
-![project screenshot](/img/screenshot.jpg)
+# Which LOST Character Are You?
+Version 0.0.1: March 31, 2016
+by [Karen Freeman-Smith](https://karenfreemansmith.github.io)
 
-__Version 1: March 31, 2016__
+### Technologies Used
+HTML, CSS, Bootstrap, JavaScript, jQuery
 
-## by [Karen Freeman-Smith](http://karenfreemansmith.github.io)
+![screenshot of project running](screenshot.png)
 
-### Description
-__*Who Are You Quiz*__
-
-A website that asks questions and determines which LOST character you are.
-
-## Technologies Used
-HTML, CSS
+## Description
+*[Learn How To Program](http://learnhowtoprogram.com) Intro to Programming Week 2 Individual Project: A website that asks questions and determines which LOST character you are.*
 
 ## Setup/Installation
-* [View on Github Pages](https://karenfreemansmith.github.io/EpicIntroWk1-PetWebsite)
+* [View on Github Pages](https://karenfreemansmith.github.io/Epic-IntroWk2-WhoAreYou)
 * _OR_
-* Clone diectory 
+* Clone directory
 * Open index.html in your favorite browser
 
 ## Support & Contact
