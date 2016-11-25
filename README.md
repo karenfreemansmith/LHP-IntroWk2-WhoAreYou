@@ -11,7 +11,7 @@ HTML, CSS, Bootstrap, JavaScript, jQuery
 *[Learn How To Program](http://learnhowtoprogram.com) Intro to Programming Week 2 Individual Project: A website that asks questions and determines which LOST character you are.*
 
 ## Setup/Installation
-* [View on Github Pages](https://karenfreemansmith.github.io/Epic-IntroWk2-WhoAreYou)
+* [View on Github Pages](https://karenfreemansmith.github.io/LHP-IntroWk2-WhoAreYou)
 * _OR_
 * Clone directory
 * Open index.html in your favorite browser
